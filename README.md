@@ -4,7 +4,7 @@
 
 This project is developed as part of Harvard University's CS50W course which dives into the world of web development with Python and JavaScript. In this project, I have built an online encyclopedia reminiscent of Wikipedia, leveraging the power of Django.
 
-[![Watch the video](https://youtu.be/HvNuI6ut0Cs)
+![YouTube Icon](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg) [Watch the Project Demonstration](https://youtu.be/HvNuI6ut0Cs)
 
 (Click on the image above to see the project demonstration on YouTube)
 
